@@ -1,2 +1,1 @@
-# SoundProcessing
-Mini Project in Sound Processing
+Notebook available as well as the song used in the report.
